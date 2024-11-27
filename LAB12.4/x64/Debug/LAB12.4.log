@@ -1,0 +1,3 @@
+﻿  lab12.4.cpp
+D:\source\repos\Student\LAB12.4\lab12.4.cpp(90,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  LAB12.4.vcxproj -> D:\source\repos\Student\LAB12.4\x64\Debug\LAB12.4.exe
